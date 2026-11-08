@@ -1,0 +1,8 @@
+deps/
+bend-ssz-example
+*.c
+*.js
+*.mjs
+*.gpu
+__pycache__/
+bendtt
